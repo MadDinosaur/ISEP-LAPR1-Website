@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>HTML Frames Example - Content</title>
+<style type="text/css">
+body {
+	font-family:verdana,arial,sans-serif;
+	font-size:10pt;
+	margin:30px;
+	background-color:#ffcc00;
+	}
+</style>
+</head>
+<body>
+<h1>Funcionalidades</h1>
+<h2>O que faz a aplicação?</h2>
+<p>Uma breve apresentação das funcionalidades da nossa aplicação:</p>
+<ul>
+	<li><a href="disponibilidade.html" target="content">Disponibilidade</a></li>
+	<li><a href="preco.html" target="_self">Preço</a></li>
+  <li><a href="avaliacao.html" target="_self">Avaliação</a></li>
+  <li><a href="pagamento.html" target="_self">Faturação e pagamento</a></li>
+  <li><a href="programado.html" target="_self">Programar serviços</a></li>
+  <li><a href="recompensas.html" target="_self">Recompensas</a></li>
+</ul>
+</body>
+</html>
