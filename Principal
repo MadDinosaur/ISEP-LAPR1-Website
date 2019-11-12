@@ -12,11 +12,11 @@ body{
 <body>
 <h1>App serviços domésticos</h1>
 <ul>
-    <li><a href="intro.html" target="content">Introdução</a></li>
-    <li><a href="descriçao.html" target="content">Descrição do projeto</a></li>
-    <li><a href="funcionalidades.html" target="content">Funcionalidades</a></li>
-    <li><a href="apps.html" target="content">Apps semelhantes</a></li>
-    <li><a href="biblio.html" target="content">Bibliografia</a></li>
+    <li><a href="Introdução.html" target="content">Introdução</a></li>
+    <li><a href="Descriçao.html" target="content">Descrição do projeto</a></li>
+    <li><a href="Funcionalidades.html" target="content">Funcionalidades</a></li>
+    <li><a href="Apps.html" target="content">Apps semelhantes</a></li>
+    <li><a href="Bibliografia.html" target="content">Bibliografia</a></li>
     <p><img src="lasanha.jpg" alt="lasanha" style="float:left;width:300px;height:200px;">
 </u1>
 </body>
